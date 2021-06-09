@@ -8,8 +8,8 @@
           "id": "s001f7",
           "type": "geojson",
           "config": {
-            "dataId": "buildings-heights",
-            "label": "buildings-heights",
+            "dataId": "buildings_heights",
+            "label": "buildings_heights",
             "color": [255, 203, 153],
             "columns": {
               "geojson": "_geojson"
